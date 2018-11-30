@@ -14,9 +14,14 @@ function setup(api, sourceDir) {
 
 function setupWebpack(config, sourceDir) {
 	/**
-	 * Set up the new entry point.
+	 * Configure the new entry point.
 	 */
 	const entry = config.entry("app");
 	entry.clear(); // Remove existing entry rule
 	entry.add(`./${sourceDir}/main.js`);
+
+	/**
+	 * Configure how the @ symbol is resolved.
+	 */
+	config.resolve.alias.set("@", path.resolve(sourceDir));
 }
