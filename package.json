@@ -1,6 +1,6 @@
 {
   "name": "vue-cli-plugin-source-dir",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Add the option to configure the source directory for Vue CLI",
   "main": "index.js",
   "scripts": {
