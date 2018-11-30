@@ -1,0 +1,26 @@
+{
+  "name": "vue-cli-plugin-source-dir",
+  "version": "0.0.1",
+  "description": "Add the option to configure the source directory for Vue CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam3d/vue-source-dir.git"
+  },
+  "keywords": [
+    "vue",
+    "vue-cli",
+    "source",
+    "src",
+    "dir"
+  ],
+  "author": "Sam Holmes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sam3d/vue-source-dir/issues"
+  },
+  "homepage": "https://github.com/sam3d/vue-source-dir#readme"
+}
