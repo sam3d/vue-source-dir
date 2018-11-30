@@ -23,5 +23,6 @@ function setupWebpack(config, sourceDir) {
 	/**
 	 * Configure how the @ symbol is resolved.
 	 */
-	config.resolve.alias.set("@", path.resolve(sourceDir));
+	const alias = config.resolve.alias;
+	alias.set("@", path.resolve(sourceDir));
 }
