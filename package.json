@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/sam3d/vue-source-dir/issues"
   },
-  "homepage": "https://github.com/sam3d/vue-source-dir#readme"
+  "homepage": "https://github.com/sam3d/vue-source-dir#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
