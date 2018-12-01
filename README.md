@@ -1,4 +1,4 @@
-# vue-source-dir [![npm](https://img.shields.io/npm/v/vue-cli-plugin-source-dir.svg)](https://www.npmjs.com/package/vue-cli-plugin-source-dir)
+# vue-source-dir [![npm](https://badge.fury.io/js/vue-cli-plugin-source-dir.svg)](https://www.npmjs.com/package/vue-cli-plugin-source-dir)
 
 _Add the option to configure the source directory for Vue CLI_
 
