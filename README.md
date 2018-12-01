@@ -1,6 +1,8 @@
 # vue-source-dir [![npm](https://img.shields.io/npm/v/vue-cli-plugin-source-dir.svg)](https://www.npmjs.com/package/vue-cli-plugin-source-dir)
 
-Add the option to configure the source directory for Vue CLI
+_Add the option to configure the source directory for Vue CLI_
+
+(actual npm package is [vue-cli-plugin-source-dir](https://www.npmjs.com/package/vue-cli-plugin-source-dir))
 
 ## Quick start
 Navigate to your Vue CLI 3 project and run:
