@@ -18,7 +18,8 @@ Then in your `vue.config.js` file, set the following:
 // vue.config.js
 module.exports = {
   pluginOptions: {
-    sourceDir: "client"
+    sourceDir: "client", // Required for plugin. Does nothing if not entered
+    entryFile: "" // Defaults to "main.js" if not specified
   }
 };
 ```
