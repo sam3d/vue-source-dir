@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/sam3d/vue-source-dir#readme",
   "dependencies": {
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.15"
   }
 }
